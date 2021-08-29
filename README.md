@@ -1,4 +1,4 @@
-# GitHub Bootcamp for Beginners - A Curriculum
+# GitHub Bootcamp — Curriculum for Beginners
 
 > A series of **git challenges** with a variety of difficulties for busy developers working in a team.
 
