@@ -1,0 +1,14 @@
+{
+  "name": "slides",
+  "version": "1.0.0",
+  "description": "Just slides for the GitHub bootcamp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "mdx-deck": "^4.1.1"
+  }
+}
