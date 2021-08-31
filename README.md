@@ -14,6 +14,9 @@ My project-based pedagogy allows you to learn while building, a proven way for n
 
 **Students**, to follow this workshop, you need to [complete the onboarding form](https://davidl.fr/onboarding-workshop)
 
+- Download the [markdown-cheat-sheet](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
+- Download the [git-cheat-sheet](https://education.github.com/git-cheat-sheet-education.pdf)
+
 ## Meet the team
 
 I am a freelance developer, and I share a lot fo [content about the react ecosystem](https://twitter.com/flexbox_).
