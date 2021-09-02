@@ -18,5 +18,13 @@
 - open chrome and print
 - Go on LinkedIn and add your certificate
 
-## 👽 Bonus
+```
+Name:
+Git and GitHub Bootcamp
 
+Issuing organisation:
+LEULIETTE DAVID
+
+Credential URL:
+The url of your image
+```
