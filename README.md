@@ -18,7 +18,7 @@ My project-based pedagogy allows you to learn while building, a proven way for n
 
 
 
-[![](./automation-with-github.jpg)](https://courses.davidl.fr/presentations/git-github/)
+[![](./slides/automation-with-github.jpg)](https://courses.davidl.fr/presentations/git-github/)
 
 
 - Download the [markdown-cheat-sheet](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
