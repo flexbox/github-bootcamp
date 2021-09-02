@@ -1,22 +1,35 @@
-# Lesson
+# Certification
 
 ## What you will learn
 
--
+- Create your certificate
 
-## 👾 Before we start the exercise
+## 👨‍🚀 Exercise 4
 
--
+- [ ] Add a new slide certificate with your name on it
 
-## 📡 Installation
+```markdown
+---
 
--
+Your Full Name here
 
-## 👨‍🚀 Exercise 1
+![](https://raw.githubusercontent.com/flexbox/github-bootcamp/main/slides/github-bootcamp.png)
 
-- add a new slide certificate with your name
-- open chrome and print
-- Go on LinkedIn and add your certificate
+---
+
+```
+
+- [ ] Open google chrome and print the page as a `.pdf` with `cmd` + `p`
+
+![github bootcamp certificate](./print-pdf.png)
+
+- [ ] Commit all your files
+- [ ] Go on LinkedIn Profile > Certification
+
+
+![](./linkedin-certification.gif)
+
+- [ ] Add your certificate with these informations
 
 ```
 Name:
@@ -26,5 +39,9 @@ Issuing organisation:
 LEULIETTE DAVID
 
 Credential URL:
-The url of your image
+The url of your .pdf on GitHub
 ```
+
+![](./linkedin-certification-add.png)
+
+👏 Congratulations!
