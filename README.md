@@ -8,6 +8,8 @@ My project-based pedagogy allows you to learn while building, a proven way for n
 
 - Hearty thanks to [Linus Torvalds](https://github.com/torvalds), for his contribution to the open-source ecosystem.
 
+- Thanks to [Binpodo](https://thenounproject.com/term/certificate/2189430/) for the assets
+
 ---
 
 ## Getting Started
