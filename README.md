@@ -16,10 +16,7 @@ My project-based pedagogy allows you to learn while building, a proven way for n
 
 **Students**, to follow this workshop, you need to [complete the onboarding form](https://davidl.fr/onboarding-workshop)
 
-
-
 [![](./slides/automation-with-github.jpg)](https://courses.davidl.fr/presentations/git-github/)
-
 
 - Download the [markdown-cheat-sheet](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
 - Download the [git-cheat-sheet](https://education.github.com/git-cheat-sheet-education.pdf)
