@@ -14,7 +14,7 @@ My project-based pedagogy allows you to learn while building, a proven way for n
 
 ## Getting Started
 
-**Students**, to follow this workshop, you need to [complete the onboarding form](https://davidl.fr/onboarding-workshop)
+**Students**, to follow this workshop, you need to [complete the onboarding form](https://airtable.com/shrLdN7E7kMMiVeFK)
 
 [![](./slides/automation-with-github.jpg)](https://courses.davidl.fr/presentations/git-github/)
 
