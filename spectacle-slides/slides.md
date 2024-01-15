@@ -1,6 +1,3 @@
-import { swiss } from '@mdx-deck/themes';
-export const theme = swiss;
-
 # GitHub Bootcamp
 
 ---
