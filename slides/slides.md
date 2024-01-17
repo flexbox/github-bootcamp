@@ -85,6 +85,8 @@ gp
 
 ---
 
+## David Leuliette
+
 ![](https://raw.githubusercontent.com/flexbox/github-bootcamp/main/slides/github-bootcamp.png)
 
 --- { "layout" : "center" }
