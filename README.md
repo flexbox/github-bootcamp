@@ -7,23 +7,39 @@ I work with `git` as a [developer since 2010](https://github.com/flexbox?tab=ove
 My project-based pedagogy allows you to learn while building, a proven way for new skills to 'stick'.
 
 - Hearty thanks to [Linus Torvalds](https://github.com/torvalds), for his contribution to the open-source ecosystem.
-
-- Thanks to [Binpodo](https://thenounproject.com/term/certificate/2189430/) for the assets
+- Thanks to [Binpodo](https://thenounproject.com/term/certificate/2189430/) for the assets.
 
 ---
 
 ## Getting Started
 
-**Students**, to follow this workshop, you need to [complete the onboarding form](https://airtable.com/shrLdN7E7kMMiVeFK)
+**Students**, to follow this workshop, you need to [complete the onboarding form](https://airtable.com/shrLdN7E7kMMiVeFK).
 
-[![](./slides/automation-with-github.jpg)](https://courses.davidl.fr/presentations/git-github/)
+![David Leuliette teaching git](./slides/automation-with-github.jpg)
 
 - Download the [markdown-cheat-sheet](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
 - Download the [git-cheat-sheet](https://education.github.com/git-cheat-sheet-education.pdf)
 
+## Curriculum
+
+1. Introduction to version control
+
+- [lecture](https://davidl.fr/courses)
+- [challenges](./challenges/101/01.md)
+
+1. Automation with GitHub cli and git Hooks
+
+- [lecture](https://davidl.fr/courses)
+- [challenges](./challenges/102/01.md)
+
+1. Multiplayer collaboration
+
+- [lecture](https://davidl.fr/courses)
+- [challenges](./challenges/103/01.md)
+
 ## Meet the team
 
-I am a freelance developer, and I share a lot fo [content about the react ecosystem](https://twitter.com/flexbox_).
+I am a freelance developer, and I share a lot of [content about the react ecosystem](https://twitter.com/intent/follow?screen_name=flexbox_).
 
 ## Pedagogy
 
