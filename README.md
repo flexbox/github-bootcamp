@@ -27,12 +27,12 @@ My project-based pedagogy allows you to learn while building, a proven way for n
 - [lecture](https://davidl.fr/courses)
 - [challenges](./challenges/101/01.md)
 
-1. Automation with GitHub cli and git Hooks
+2. Automation with GitHub cli and git Hooks
 
 - [lecture](https://davidl.fr/courses)
 - [challenges](./challenges/102/01.md)
 
-1. Multiplayer collaboration
+3. Multiplayer collaboration
 
 - [lecture](https://davidl.fr/courses)
 - [challenges](./challenges/103/01.md)
