@@ -42,7 +42,7 @@ If you have a recent version installed, it should do.
 
 To work faster and become a comand line power user we are going to use 3 tools: the software `iterm2`, the configuration terminal framework `oh-my-zsh` and the command line interface tool `gh`.
 
-![david leuliette terminal setup ](./davids-terminal-setup.png)
+![david leuliette terminal setup](./davids-terminal-setup.png)
 
 _Note: this is my setup with `refined` theme and `Snazzy` colors_
 
