@@ -44,7 +44,7 @@ To work faster and become a comand line power user we are going to use 3 tools: 
 
 ![david leuliette terminal setup ](./davids-terminal-setup.png)
 
-_Note: this is my setup with _
+_Note: this is my setup with `refined` theme and `Snazzy` colors_
 
 ### iterm2
 
