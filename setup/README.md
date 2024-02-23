@@ -2,21 +2,33 @@
 
 ## System Requirements
 
-### macOS
+<details><summary>macOS</summary>
+<p>
 
 ```console
 brew install git
 ```
 
-### Linux
+</p>
+</details>
+
+<details><summary>Linux</summary>
+<p>
 
 ```console
 apt-get install git
 ```
 
-### Windows
+</p>
+</details>
+
+<details><summary>windows</summary>
+<p>
 
 [Download](http://git-scm.com/download/win)
+
+</p>
+</details>
 
 Use the following command at your terminal to check your git version.
 
@@ -28,13 +40,23 @@ If you have a recent version installed, it should do.
 
 ## Tools of Titans
 
-To work faster and become a comand line power user we are going to use these tools.
+To work faster and become a comand line power user we are going to use 3 tools: the software `iterm2`, the configuration terminal framework `oh-my-zsh` and the command line interface tool `gh`.
+
+![david leuliette terminal setup ](./davids-terminal-setup.png)
+
+### iterm2
+
+`iTerm2` is a replacement for `Terminal`. It works on Macs only. iTerm2 brings the terminal into the modern age with features you never knew you always wanted.
+
+```console
+brew install --cask iterm2
+```
 
 ### `oh-my-zsh`
 
-![oh-my-zsh](https://ohmyz.sh/img/themes/mh.jpg)
-
 Oh My Zsh is a delightful, open source, community-driven framework for managing your Zsh configuration. It comes bundled with thousands of helpful functions, helpers, plugins, themes, and a few things that make you shout...
+
+![oh-my-zsh](https://ohmyz.sh/img/themes/mh.jpg)
 
 On macOS, you can install it with:
 
