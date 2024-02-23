@@ -48,7 +48,9 @@ _Note: this is my setup with `refined` theme and `Snazzy` colors_
 
 ### iterm2 - [iterm2.com](https://iterm2.com/)
 
-`iTerm2` is a replacement for `Terminal`. It works on Macs only. iTerm2 brings the terminal into the modern age with features you never knew you always wanted.
+> iTerm2 brings the terminal into the modern age with features you never knew you always wanted.
+
+`iTerm2` is a replacement for `Terminal`. It works on Macs only.
 
 - [ ] install iterm2
 
@@ -64,7 +66,9 @@ You can select a color scheme from the list or [import a custom one](https://ite
 
 ### `oh-my-zsh`
 
-Oh My Zsh is a delightful, open source, community-driven framework for managing your Zsh configuration. It comes bundled with thousands of helpful functions, helpers, plugins, themes, and a few things that make you shout...
+> Oh My Zsh is a delightful, open source, community-driven framework for managing your Zsh configuration.
+
+It comes bundled with thousands of helpful functions, helpers, plugins, themes, and a few things that make you shout...
 
 ![oh-my-zsh](https://ohmyz.sh/img/themes/mh.jpg)
 
