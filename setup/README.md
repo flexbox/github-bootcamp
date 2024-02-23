@@ -121,3 +121,5 @@ plugins=(git gitfast common-aliases zsh-syntax-highlighting history-substring-se
 ```console
 brew install gh
 ```
+
+_Note: for gitlab users, there is a [similar tool called `glab`](https://gitlab.com/gitlab-org/cli)_.
