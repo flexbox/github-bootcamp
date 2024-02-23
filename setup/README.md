@@ -44,13 +44,23 @@ To work faster and become a comand line power user we are going to use 3 tools: 
 
 ![david leuliette terminal setup ](./davids-terminal-setup.png)
 
+_Note: this is my setup with _
+
 ### iterm2
 
 `iTerm2` is a replacement for `Terminal`. It works on Macs only. iTerm2 brings the terminal into the modern age with features you never knew you always wanted.
 
+- [ ] install iterm2
+
 ```console
 brew install --cask iterm2
 ```
+
+- [ ] change the color scheme, open the settings and go to `Profiles` > `Colors` > `Color Presets`
+
+![iterm2 custom colors](./iterm-change-colors.png)
+
+you can select a color scheme from the list or [import a custom one](https://iterm2colorschemes.com/).
 
 ### `oh-my-zsh`
 
@@ -81,6 +91,8 @@ omz plugin enable PLUGIN_NAME
 omz plugin disable PLUGIN_NAME
 ```
 
+https://github.com/ohmyzsh/ohmyzsh/wiki/Plugins
+
 To enable a plugin, open your `.zshrc` file and add these:
 
 ```console
@@ -88,7 +100,7 @@ To enable a plugin, open your `.zshrc` file and add these:
 plugins=(git gitfast common-aliases zsh-syntax-highlighting history-substring-search zsh-autosuggestions zsh-z)
 ```
 
-### `gh`
+### `gh` - [cli.github.com](https://cli.github.com/)
 
 `gh` is GitHub on the command line. It brings pull requests, issues, and other GitHub concepts to the terminal next to where you are already working with git and your code.
 
