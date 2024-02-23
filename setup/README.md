@@ -60,14 +60,13 @@ brew install --cask iterm2
 
 ![iterm2 custom colors](./iterm-change-colors.png)
 
-you can select a color scheme from the list or [import a custom one](https://iterm2colorschemes.com/).
+You can select a color scheme from the list or [import a custom one](https://iterm2colorschemes.com/).
 
 ### `oh-my-zsh`
 
 Oh My Zsh is a delightful, open source, community-driven framework for managing your Zsh configuration. It comes bundled with thousands of helpful functions, helpers, plugins, themes, and a few things that make you shout...
 
 ![oh-my-zsh](https://ohmyz.sh/img/themes/mh.jpg)
-
 
 <details><summary>macOS</summary>
 <p>
@@ -81,7 +80,7 @@ sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.
 </p>
 </details>
 
-<details><summary>linux and windows</summary>
+<details><summary>Linux and windows</summary>
 <p>
 
 [Installing ZSH wiki](https://github.com/ohmyzsh/ohmyzsh/wiki/Installing-ZSH)
@@ -89,7 +88,7 @@ sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.
 </p>
 </details>
 
-#### Changing theme
+#### [Changing theme](https://github.com/ohmyzsh/ohmyzsh/wiki/Themes)
 
 ```console
 omz theme list
@@ -100,15 +99,15 @@ omz theme set THEME_NAME
 
 ZSH allows you to extend built-in functionality by adding plugins.
 
+To enable a plugin, you need to list it in your `.zshrc` file and then enable it.
+
 ```console
 omz plugin list
 omz plugin enable PLUGIN_NAME
 omz plugin disable PLUGIN_NAME
 ```
 
-https://github.com/ohmyzsh/ohmyzsh/wiki/Plugins
-
-To enable a plugin, open your `.zshrc` file and add these:
+Here is an example of a `.zshrc` file with some useful plugins I use:
 
 ```console
 # Useful oh-my-zsh plugins
